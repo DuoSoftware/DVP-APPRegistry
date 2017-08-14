@@ -824,6 +824,8 @@ function Clientaccesspolicy(req,res,next){
 
 }
 
+module.exports = RestServer;
+
 RestServer.get("/crossdomain.xml",Crossdomain);
 RestServer.get("/clientaccesspolicy.xml",Clientaccesspolicy);
 

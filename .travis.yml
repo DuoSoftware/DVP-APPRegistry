@@ -1,9 +1,8 @@
-- language: node_js
-- node_js: 
+language: node_js
+node_js:
   - "5"
-- script: gulp travis
-- before_script:
-  - npm install -g gulp
-- script: gulp
-- install:
+script:
+  - mocha unittest.js
+before_script:
+  - npm install -g mocha
   - npm install
