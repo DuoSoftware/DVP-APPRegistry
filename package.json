@@ -19,8 +19,8 @@
   "dependencies": {
     "config": "^1.19.0",
     "cors": "^2.7.1",
-    "dvp-common": "^0.8.4",
-    "dvp-dbmodels": "0.0.54",
+    "dvp-common": "^1.1.0",
+    "dvp-dbmodels": "^2.1.0",
     "http": "0.0.0",
     "node-uuid": "^1.4.7",
     "request": "^2.70.0",
