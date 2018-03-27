@@ -24,7 +24,7 @@
     "http": "0.0.0",
     "node-uuid": "^1.4.7",
     "request": "^2.70.0",
-    "restify": "^4.0.4",
+    "restify": "^4.0.3",
     "restify-jwt": "^0.4.0"
   }
 }
